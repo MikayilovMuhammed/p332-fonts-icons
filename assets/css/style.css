@@ -1,0 +1,12 @@
+@import "./partials/fonts.css";
+
+
+p {
+    font-family: KanitItalic;
+}
+
+
+.material-symbols-outlined {
+    font-size: 80px;
+    color: blue;
+}
